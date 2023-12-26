@@ -1,5 +1,5 @@
 # Police Feedback System
-Greetings Everyone , we are Team RJ-14. 
+Greetings Everyone , we are Team RJ14. 
 ## Problem Statement
 
 In addressing the challenges associated with obtaining feedback on police operations, there is a pressing need for a modernized and inclusive approach. Traditional methods such as inspections and complainant calls have proven to be outdated, restricted, and lacking in inclusivity. The current non-digital feedback mechanisms result in a lack of uniform guest records, inadequate staff for daily follow-up, and complications arising from a multi-lingual and digitally less-literate society.
