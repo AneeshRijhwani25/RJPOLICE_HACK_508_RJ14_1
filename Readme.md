@@ -1,4 +1,4 @@
-# Police Feedback System
+![homepage](https://github.com/AneeshRijhwani25/RJPOLICE_HACK_508_RJ14_1/assets/91670912/287160d3-8d57-4a42-80d3-687177238f59)# Police Feedback System
 Greetings Everyone , we are Team RJ-14. 
 ## Problem Statement
 
@@ -72,14 +72,24 @@ In addressing the challenges associated with obtaining feedback on police operat
 - **Aneesh Rijhwani:** Backend Development and deployment.
 
 ## Screenshots
-### Homepage
+### Homepage 
+![homepage](https://github.com/AneeshRijhwani25/RJPOLICE_HACK_508_RJ14_1/assets/91670912/f6689b6b-ff8d-4d0d-b369-8d860502cabd)
+
+
+### Homepage with login page
 ![HomepageWithLogin](https://github.com/AneeshRijhwani25/RJPOLICE_HACK_508_RJ14_1/assets/91670912/50375ad8-5bae-4cf7-8715-04fba2019bd2)
+
+### Login page
+![LoginPage](https://github.com/AneeshRijhwani25/RJPOLICE_HACK_508_RJ14_1/assets/91670912/2f36b0a3-1742-4601-8723-c52b7508bacd)
+
+###Signup Page
+![SignUpPage](https://github.com/AneeshRijhwani25/RJPOLICE_HACK_508_RJ14_1/assets/91670912/81bc198b-a485-4ff7-9d89-9f208bc53fee)
+
+###Emoji Ratings
+![Emojis](https://github.com/AneeshRijhwani25/RJPOLICE_HACK_508_RJ14_1/assets/91670912/fc5fd452-3405-455c-903b-69fbc8cfa020 )
 
 
 ## Live Demo 
 You can watch the live demonstration [here](https://www.youtube.com/watch?v=NwnEF26LWOM).
 
-## Schedule
-
-[Insert Schedule Information]
 
