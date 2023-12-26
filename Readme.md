@@ -1,4 +1,4 @@
-![homepage](https://github.com/AneeshRijhwani25/RJPOLICE_HACK_508_RJ14_1/assets/91670912/287160d3-8d57-4a42-80d3-687177238f59)# Police Feedback System
+# Police Feedback System
 Greetings Everyone , we are Team RJ-14. 
 ## Problem Statement
 
