@@ -1,0 +1,52 @@
+.feedback-card {
+  width: 100%;
+  border-radius: 9px;
+}
+
+.feedback-card .card-header {
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+  background: var(--secondary);
+  background-color: rgba(68.6, 25.9, 38, 0.9);
+}
+
+.trash-feedback {
+  color: var(--secondary);
+  cursor: pointer;
+}
+
+.favourite-feedback {
+  cursor: pointer;
+  color: var(--white);
+}
+
+.favourite-feedback.starred {
+  color: var(--primary);
+}
+
+.card-text::first-letter {
+  text-transform: capitalize;
+}
+
+.share-feedback--btn {
+  background-color: var(--secondary);
+  color: var(--white);
+  line-height: 1.4;
+  font-size: 14px;
+}
+.share-feedback--btn:hover {
+  color: var(--white);
+  border: 1px solid var(--primary);
+}
+
+.feedback-date {
+  color: var(--secondary);
+  font-weight: 500;
+}
+
+@media (min-width: 600px) {
+  .feedback-card {
+    /* width: 60%; */
+    border-radius: 9px;
+  }
+}

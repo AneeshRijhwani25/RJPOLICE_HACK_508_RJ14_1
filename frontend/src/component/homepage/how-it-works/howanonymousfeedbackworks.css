@@ -1,0 +1,106 @@
+/* .how-it-works {
+  margin-top: 50px;
+}
+
+.how-it-works .btn {
+  background-color: var(--primary);
+  color: var(--secondary);
+  background-color: var(--secondary);
+  color: var(--white);
+  font-weight: 700;
+}
+
+.how-it-works h1 {
+  color: var(--secondary);
+  font-weight: 800;
+  line-height: 90px;
+  margin-bottom: 50px;
+  margin-top: 100px;
+  display: none;
+}
+
+.how-it-works .card-title {
+  color: var(--secondary);
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.how-it-works .card-text {
+  margin: 2rem 0;
+}
+
+@media (min-width: 900px) {
+  .how-it-works {
+    margin-top: 100px;
+  }
+} */
+
+
+
+
+.how-it-works {
+  margin-top: 50px;
+}
+
+.how-it-works h1 {
+  color: var(--secondary);
+  font-weight: 800;
+  line-height: 90px;
+  margin-bottom: 50px;
+  margin-top: 50px; /* Adjusted margin-top */
+  text-align: center; /* Center align the heading */
+}
+
+.how-it-works .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Center the cards */
+}
+
+.how-it-works .col-sm-4 {
+  flex: 0 0 100%; /* Full width on small screens, adjust as needed */
+  max-width: 100%; /* Full width on small screens, adjust as needed */
+  margin-bottom: 20px; /* Adjusted margin */
+}
+
+.how-it-works .card {
+  width: 100%;
+  border: none; /* Remove default card border */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+}
+
+.how-it-works .card-body {
+  text-align: center;
+}
+
+.how-it-works .btn {
+  background-color: var(--primary);
+  color: var(--white);
+  font-weight: 700;
+}
+
+.how-it-works .card-title {
+  color: var(--secondary);
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.how-it-works .card-text {
+  margin: 2rem 0;
+}
+
+@media (min-width: 900px) {
+  .how-it-works {
+    margin-top: 100px;
+  }
+
+  .how-it-works .col-sm-4 {
+    flex: 0 0 calc(33.333% - 20px); /* Adjusted for 3 columns on larger screens */
+    max-width: calc(33.333% - 20px); /* Adjusted for 3 columns on larger screens */
+    margin-right: 20px; /* Adjusted margin between cards */
+  }
+
+  .how-it-works .card {
+    width: 100%;
+  }
+}
