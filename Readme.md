@@ -82,10 +82,10 @@ In addressing the challenges associated with obtaining feedback on police operat
 ### Login page
 ![LoginPage](https://github.com/AneeshRijhwani25/RJPOLICE_HACK_508_RJ14_1/assets/91670912/2f36b0a3-1742-4601-8723-c52b7508bacd)
 
-###Signup Page
+### Signup Page
 ![SignUpPage](https://github.com/AneeshRijhwani25/RJPOLICE_HACK_508_RJ14_1/assets/91670912/81bc198b-a485-4ff7-9d89-9f208bc53fee)
 
-###Emoji Ratings
+### Emoji Ratings
 ![Emojis](https://github.com/AneeshRijhwani25/RJPOLICE_HACK_508_RJ14_1/assets/91670912/fc5fd452-3405-455c-903b-69fbc8cfa020 )
 
 
