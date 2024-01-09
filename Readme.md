@@ -89,7 +89,5 @@ In addressing the challenges associated with obtaining feedback on police operat
 ![Emojis](https://github.com/AneeshRijhwani25/RJPOLICE_HACK_508_RJ14_1/assets/91670912/fc5fd452-3405-455c-903b-69fbc8cfa020 )
 
 
-## Live Demo 
-You can watch the live demonstration [here](https://www.youtube.com/watch?v=NwnEF26LWOM).
 
 
